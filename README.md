@@ -1,8 +1,8 @@
 ### Hi I am Chirag Patil! Great to see you here 👋
 
-<div id="header" align="center">
+<p align="center">
     <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
-</div>
+</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-chirag42-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirag42/)](https://www.linkedin.com/in/chirag42/)
 [![Instagram Badge](https://img.shields.io/badge/-patil_chirag42-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/patil_chirag42/)](https://www.instagram.com/patil_chirag42/)
