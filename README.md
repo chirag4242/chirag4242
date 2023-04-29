@@ -1,4 +1,4 @@
-### Hi I am Chirag Patil! Great to see you here 👋
+### Hi Chirag Patil here! Great to see you here 👋
 
 <p align="center">
     <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
@@ -6,11 +6,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-chirag42-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirag42/)](https://www.linkedin.com/in/chirag42/)
 [![Instagram Badge](https://img.shields.io/badge/-patil_chirag42-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/patil_chirag42/)](https://www.instagram.com/patil_chirag42/)
+[![Linkfree](https://img.shields.io/badge/linkfree-1de9b6?style=flat-square&logo=linkfree&logoColor=white)](https://linkfree.io/chirag4242)
 [![Hashnode Badge](https://img.shields.io/badge/-@ChiragPatil-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://devexplanation.hashnode.dev/)](https://devexplanation.hashnode.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-patilchirag484@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patilchirag484@gmail.com)](mailto:patilchirag484@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://cio-app.herokuapp.com/)
 [![Projects](https://img.shields.io/badge/Projects%20Site-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)](https://sites.google.com/view/chiragpatil/home)
 [![Twitter](https://img.shields.io/badge/Hardwork4224-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Hardwork4224)
+
 
 I am a Full Stack Developer with expertise in various programming languages and tools. With my proficiency in Asp.Net MVC, C#, MSSQL, Bootstrap, JavaScript, Entity Framework Core, and  FastAPI, I have developed multiple commercial-grade applications. I am also skilled in Git, Bootstrap, SQL ( MSSQL, PostgreSQL), MongoDB, Azure, Firebase, Selenium, HTML/CSS, Docker, Kubernetes, and Jenkins. Proficient in troubleshooting, debugging, CI/CD, Agile and SDLC methodology, testing, documenting, and unit testing, I am committed to delivering reliable and efficient software solutions.
 
