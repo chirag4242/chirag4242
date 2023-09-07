@@ -9,12 +9,11 @@
 [![Linkfree](https://img.shields.io/badge/linkfree-1de9b6?style=flat-square&logo=linkfree&logoColor=white)](https://linkfree.io/chirag4242)
 [![Hashnode Badge](https://img.shields.io/badge/-@ChiragPatil-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://devexplanation.hashnode.dev/)](https://devexplanation.hashnode.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-patilchirag484@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patilchirag484@gmail.com)](mailto:patilchirag484@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://cio-app.herokuapp.com/)
 [![Projects](https://img.shields.io/badge/Projects%20Site-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)](https://sites.google.com/view/chiragpatil/home)
 [![Twitter](https://img.shields.io/badge/Hardwork4224-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Hardwork4224)
 
 
-I am a Full Stack Developer with expertise in various programming languages and tools. With my proficiency in Asp.Net MVC, C#, MSSQL, Bootstrap, JavaScript, Entity Framework Core, and  FastAPI, I have developed multiple commercial-grade applications. I am also skilled in Git, Bootstrap, SQL ( MSSQL, PostgreSQL), MongoDB, Azure, Firebase, Selenium, HTML/CSS, Docker, Kubernetes, and Jenkins. Proficient in troubleshooting, debugging, CI/CD, Agile and SDLC methodology, testing, documenting, and unit testing, I am committed to delivering reliable and efficient software solutions.
+I am a Full Stack Developer with expertise in various programming languages and tools. With my proficiency in Asp.Net MVC, C#, MSSQL, Bootstrap, JavaScript, Entity Framework Core, and  FastAPI, I have developed multiple commercial-grade applications. I am also skilled in Git, Bootstrap, SQL ( MSSQL, PostgreSQL), MongoDB, Azure, Firebase, Selenium, HTML/CSS, Docker, and Kubernetes. Proficient in troubleshooting, debugging, CI/CD, Agile and SDLC methodology, testing, documenting, and unit testing, I am committed to delivering reliable and efficient software solutions.
 
 [![Chirag's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chirag4242)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -40,13 +39,9 @@ I am a Full Stack Developer with expertise in various programming languages and 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat-square&logo=angularjs&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 
 ### Databases:
 
